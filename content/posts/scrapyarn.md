@@ -1,5 +1,6 @@
 ---
 title: Project ScrapYarn
+draft: true
 weight: 1
 date: 2026-08-31
 ---
