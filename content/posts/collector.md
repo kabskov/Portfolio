@@ -34,10 +34,10 @@ as well as how natural history has shaped these finds, for example how the ice a
 the stones one can find in it today.
 Finally, it should be possible to mark stone finds as favorites, so they are collected in a separate list.
 
-## Getting there
+### Getting there
 That's the long-term vision. But before I get there, I need a solid foundation to build on — and that's exactly what this semester's project setup is designed to give me.
 
-## What's the setup for the project?
+### What's the setup for the project?
 
 Our third semester project mirrors how software is built in practice: incrementally, with new requirements, new technologies, and continuous reflection.
 
