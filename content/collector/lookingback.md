@@ -1,6 +1,8 @@
 ---
 title: "Looking back"
 weight: 1
+series: ["The Collector"]
+series_order: 12
 ---
  
 If I could start over, I would probably change a few things... But let's start with what actually worked.

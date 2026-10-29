@@ -1,6 +1,8 @@
 ---
 title: "Testing the API"
 weight: 1
+series: ["The Collector"]
+series_order: 6
 ---
  
 I test at two levels:

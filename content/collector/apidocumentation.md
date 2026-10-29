@@ -1,6 +1,8 @@
 ---
 title: "Documenting the API"
 weight: 1
+series: ["The Collector"]
+series_order: 10
 ---
  
 My API is documented with a table of all endpoints (method, URL, role, request, response and possible errors), followed by the JSON formats and a list of error codes. I followed the course guide, but added a column for the role, since my routes are protected.

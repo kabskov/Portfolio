@@ -1,6 +1,8 @@
 ---
 title: "Choosing an external API"
 weight: 1
+series: ["The Collector"]
+series_order: 3
 ---
  
 I wanted an API that is actually useful for my project, not one I picked just because I had to have one. The Collector lets users register where they found a stone, so a service that turns a place name into coordinates (geocoding) was the natural choice.

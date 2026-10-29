@@ -1,6 +1,8 @@
 ---
 title: "From user stories to test cases"
 weight: 1
+series: ["The Collector"]
+series_order: 5
 ---
  
 The Collector has eleven user stories, all written from the point of view of a rock collector. My first draft had several reasons and solutions in each story, separated by slashes. Now every story has one reason, and the extra ideas (map, statistics, filtering) are on a list of future ideas.

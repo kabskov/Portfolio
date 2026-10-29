@@ -1,6 +1,8 @@
 ---
 title: "Layers, DTOs and mappers"
 weight: 1
+series: ["The Collector"]
+series_order: 9
 ---
  
 The Collector is split into three layers, and each one has one job:

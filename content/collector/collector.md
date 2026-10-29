@@ -1,6 +1,8 @@
 ---
 title: "The Collector"
 weight: 1
+series: ["The Collector"]
+series_order: 1
 ---
 
 *A web application for rock collectors to register their finds — including find spots, photos and notes — built as a 

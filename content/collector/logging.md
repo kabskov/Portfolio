@@ -1,6 +1,8 @@
 ---
 title: "Errors and logging"
 weight: 1
+series: ["The Collector"]
+series_order: 7
 ---
  
 When something goes wrong "on purpose", for example a wrong password or a find that does not exist, the code throws an `ApiException` with a status code and a message. These are errors I expect, as opposed to bugs.

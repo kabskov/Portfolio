@@ -1,6 +1,8 @@
 ---
 title: "Keeping users out of each other's finds"
 weight: 1
+series: ["The Collector"]
+series_order: 4
 ---
  
 Users log in with their email and password and get a token (a JWT) that is valid for one hour. The client sends the token with every request to show who it is. Passwords are hashed with BCrypt, which means they are scrambled in a way that cannot be turned back, and they are never returned in a response.

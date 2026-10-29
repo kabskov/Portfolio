@@ -1,6 +1,8 @@
 ---
 title: "Building the domain"
 weight: 1
+series: ["The Collector"]
+series_order: 2
 ---
 
 The Collector has four entities: User, Find, Category and FindSpot. It looks simple on paper, but a few decisions turned out to be more interesting than I expected.

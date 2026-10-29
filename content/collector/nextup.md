@@ -1,6 +1,8 @@
 ---
 title: "What I'd do next"
 weight: 1
+series: ["The Collector"]
+series_order: 11
 ---
  
 The Collector works, but I am clear about what it cannot do yet.

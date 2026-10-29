@@ -1,6 +1,8 @@
 ---
 title: "Getting the deployment to work"
 weight: 1
+series: ["The Collector"]
+series_order: 8
 ---
  
 When I push code to `main`, a chain of tools takes over:
