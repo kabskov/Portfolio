@@ -1,5 +1,5 @@
 ---
-title: Frontpage
+title: "Welcome"
 ---
 
 Welcome to my portfolio!

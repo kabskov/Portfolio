@@ -1,7 +1,6 @@
 ---
-title: The Collector
+title: "The Collector"
 weight: 1
-date: 2026-09-26
 ---
 
 *A web application for rock collectors to register their finds — including find spots, photos and notes — built as a 
