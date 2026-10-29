@@ -1,6 +1,6 @@
 ---
 title: "Documenting the API"
-weight: 1
+weight: 100
 series: ["The Collector"]
 series_order: 10
 ---

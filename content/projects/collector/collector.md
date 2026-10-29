@@ -1,6 +1,6 @@
 ---
 title: "The Collector"
-weight: 1
+weight: 10
 series: ["The Collector"]
 series_order: 1
 ---

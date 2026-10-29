@@ -1,6 +1,6 @@
 ---
 title: "Layers, DTOs and mappers"
-weight: 1
+weight: 90
 series: ["The Collector"]
 series_order: 9
 ---

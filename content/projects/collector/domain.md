@@ -1,6 +1,6 @@
 ---
 title: "Building the domain"
-weight: 1
+weight: 20
 series: ["The Collector"]
 series_order: 2
 ---

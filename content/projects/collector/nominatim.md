@@ -1,6 +1,6 @@
 ---
 title: "Choosing an external API"
-weight: 1
+weight: 30
 series: ["The Collector"]
 series_order: 3
 ---

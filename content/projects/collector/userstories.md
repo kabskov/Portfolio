@@ -1,6 +1,6 @@
 ---
 title: "From user stories to test cases"
-weight: 1
+weight: 50
 series: ["The Collector"]
 series_order: 5
 ---

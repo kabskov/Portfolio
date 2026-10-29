@@ -1,6 +1,6 @@
 ---
 title: "Keeping users out of each other's finds"
-weight: 1
+weight: 40
 series: ["The Collector"]
 series_order: 4
 ---

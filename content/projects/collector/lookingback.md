@@ -1,6 +1,6 @@
 ---
 title: "Looking back"
-weight: 1
+weight: 120
 series: ["The Collector"]
 series_order: 12
 ---

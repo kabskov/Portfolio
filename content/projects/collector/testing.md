@@ -1,6 +1,6 @@
 ---
 title: "Testing the API"
-weight: 1
+weight: 60
 series: ["The Collector"]
 series_order: 6
 ---

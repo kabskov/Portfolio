@@ -1,6 +1,6 @@
 ---
 title: "Errors and logging"
-weight: 1
+weight: 70
 series: ["The Collector"]
 series_order: 7
 ---

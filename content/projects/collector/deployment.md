@@ -1,6 +1,6 @@
 ---
 title: "Getting the deployment to work"
-weight: 1
+weight: 80
 series: ["The Collector"]
 series_order: 8
 ---

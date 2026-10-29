@@ -1,6 +1,6 @@
 ---
 title: "What I'd do next"
-weight: 1
+weight: 110
 series: ["The Collector"]
 series_order: 11
 ---
